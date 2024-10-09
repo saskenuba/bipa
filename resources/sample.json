@@ -1,0 +1,2678 @@
+[
+  {
+    "publicKey": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+    "alias": "ACINQ",
+    "channels": 2503,
+    "capacity": 66984969372,
+    "firstSeen": 1546452819,
+    "updatedAt": 1728338233,
+    "city": null,
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": null
+  },
+  {
+    "publicKey": "0217890e3aad8d35bc054f43acc00084b25229ecff0ab68debd82883ad65ee8266",
+    "alias": "1ML.com node ALPHA",
+    "channels": 1729,
+    "capacity": 874774777,
+    "firstSeen": 1529549857,
+    "updatedAt": 1728338075,
+    "city": {
+      "de": "New York City",
+      "en": "New York",
+      "es": "Nueva York",
+      "fr": "New York",
+      "ja": "ニューヨーク",
+      "pt-BR": "Nova Iorque",
+      "ru": "Нью-Йорк"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"New York\",\"en\":\"New York\",\"es\":\"Nueva York\",\"fr\":\"New York\",\"ja\":\"ニューヨーク州\",\"pt-BR\":\"Nova Iorque\",\"ru\":\"Нью-Йорк\",\"zh-CN\":\"纽约州\"}"
+  },
+  {
+    "publicKey": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+    "alias": "WalletOfSatoshi.com",
+    "channels": 1490,
+    "capacity": 17980198944,
+    "firstSeen": 1603937862,
+    "updatedAt": 1728338127,
+    "city": {
+      "en": "Milton",
+      "ja": "ミルトン",
+      "ru": "Милтон",
+      "zh-CN": "米尔顿"
+    },
+    "country": {
+      "de": "Kanada",
+      "en": "Canada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "pt-BR": "Canadá",
+      "ru": "Канада",
+      "zh-CN": "加拿大"
+    },
+    "iso_code": "CA",
+    "subdivision": "{\"en\":\"Ontario\",\"fr\":\"Ontario\",\"ja\":\"オンタリオ州\",\"pt-BR\":\"Ontário\",\"ru\":\"Онтарио\",\"zh-CN\":\"安大略\"}"
+  },
+  {
+    "publicKey": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+    "alias": "Kraken 🐙⚡",
+    "channels": 1295,
+    "capacity": 27625415849,
+    "firstSeen": 1647426350,
+    "updatedAt": 1728338257,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+    "alias": "nicehash-ln1",
+    "channels": 1095,
+    "capacity": 17772529853,
+    "firstSeen": 1598689491,
+    "updatedAt": 1728338303,
+    "city": {
+      "de": "Brüssel",
+      "en": "Brussels",
+      "es": "Bruselas",
+      "fr": "Bruxelles",
+      "ja": "ブリュッセル",
+      "pt-BR": "Bruxelas",
+      "ru": "Брюссель",
+      "zh-CN": "布鲁塞尔"
+    },
+    "country": {
+      "de": "Belgien",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "fr": "Belgique",
+      "ja": "ベルギー王国",
+      "pt-BR": "Bélgica",
+      "ru": "Бельгия",
+      "zh-CN": "比利时"
+    },
+    "iso_code": "BE",
+    "subdivision": "{\"de\":\"Region Brüssel-Hauptstadt\",\"en\":\"Brussels Capital\",\"es\":\"Bruselas\",\"fr\":\"Bruxelles-Capitale\",\"ja\":\"ブリュッセル\",\"pt-BR\":\"Bruxelas\",\"ru\":\"Брюссельский столичный регион\",\"zh-CN\":\"布鲁塞尔首都大区\"}"
+  },
+  {
+    "publicKey": "0364913d18a19c671bb36dd04d6ad5be0fe8f2894314c36a9db3f03c2d414907e1",
+    "alias": "LQwD-Canada",
+    "channels": 1080,
+    "capacity": 3807051665,
+    "firstSeen": 1658201430,
+    "updatedAt": 1728338220,
+    "city": {
+      "en": "Port Coquitlam",
+      "ja": "ポートコキットラム"
+    },
+    "country": {
+      "de": "Kanada",
+      "en": "Canada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "pt-BR": "Canadá",
+      "ru": "Канада",
+      "zh-CN": "加拿大"
+    },
+    "iso_code": "CA",
+    "subdivision": "{\"en\":\"British Columbia\",\"es\":\"Columbia Británica\",\"fr\":\"Colombie-Britannique\",\"ja\":\"ブリティッシュコロンビア州\",\"pt-BR\":\"Colúmbia Britânica\",\"ru\":\"Британская Колумбия\",\"zh-CN\":\"不列颠哥伦比亚\"}"
+  },
+  {
+    "publicKey": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+    "alias": "CoinGate",
+    "channels": 1001,
+    "capacity": 946317026,
+    "firstSeen": 1528159480,
+    "updatedAt": 1728337979,
+    "city": {
+      "de": "Frankfurt am Main",
+      "en": "Frankfurt am Main",
+      "es": "Francfort",
+      "fr": "Francfort-sur-le-Main",
+      "ja": "フランクフルト・アム・マイン",
+      "pt-BR": "Frankfurt am Main",
+      "ru": "Франкфурт",
+      "zh-CN": "法兰克福"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Hessen\",\"en\":\"Hesse\",\"es\":\"Hessen\",\"fr\":\"Hesse\",\"ja\":\"ヘッセン州\",\"pt-BR\":\"Hesse\",\"ru\":\"Гессен\",\"zh-CN\":\"黑森州\"}"
+  },
+  {
+    "publicKey": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+    "alias": "Boltz",
+    "channels": 1001,
+    "capacity": 5918153460,
+    "firstSeen": 1553900632,
+    "updatedAt": 1728338172,
+    "city": {
+      "de": "Madrid",
+      "en": "Madrid",
+      "es": "Madrid",
+      "fr": "Madrid",
+      "ja": "マドリード市",
+      "pt-BR": "Madrid",
+      "ru": "Мадрид",
+      "zh-CN": "马德里"
+    },
+    "country": {
+      "de": "Spanien",
+      "en": "Spain",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "pt-BR": "Espanha",
+      "ru": "Испания",
+      "zh-CN": "西班牙"
+    },
+    "iso_code": "ES",
+    "subdivision": "{\"de\":\"Madrid\",\"en\":\"Madrid\",\"es\":\"Madrid\",\"fr\":\"Communauté de Madrid\",\"ja\":\"コムニダ・デ・マドリッド\",\"pt-BR\":\"Comunidade de Madrid\",\"ru\":\"Область Мадрид\",\"zh-CN\":\"马德里自治区\"}"
+  },
+  {
+    "publicKey": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+    "alias": "bfx-lnd1",
+    "channels": 905,
+    "capacity": 48181281353,
+    "firstSeen": 1588408213,
+    "updatedAt": 1728338093,
+    "city": {
+      "de": "Zürich",
+      "en": "Zurich",
+      "es": "Zúrich",
+      "fr": "Zurich",
+      "ja": "チューリッヒ",
+      "pt-BR": "Zurique",
+      "ru": "Цюрих",
+      "zh-CN": "苏黎世"
+    },
+    "country": {
+      "de": "Schweiz",
+      "en": "Switzerland",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス連邦",
+      "pt-BR": "Suíça",
+      "ru": "Швейцария",
+      "zh-CN": "瑞士"
+    },
+    "iso_code": "CH",
+    "subdivision": "{\"de\":\"Zürich\",\"en\":\"Zurich\",\"es\":\"Zúrich\",\"fr\":\"Zurich\",\"ja\":\"チューリヒ州\",\"pt-BR\":\"cantão Zurique\",\"ru\":\"Цюрих\",\"zh-CN\":\"苏黎世州\"}"
+  },
+  {
+    "publicKey": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+    "alias": "bfx-lnd0",
+    "channels": 776,
+    "capacity": 33810341744,
+    "firstSeen": 1574813156,
+    "updatedAt": 1728338253,
+    "city": {
+      "de": "Zürich",
+      "en": "Zurich",
+      "es": "Zúrich",
+      "fr": "Zurich",
+      "ja": "チューリッヒ",
+      "pt-BR": "Zurique",
+      "ru": "Цюрих",
+      "zh-CN": "苏黎世"
+    },
+    "country": {
+      "de": "Schweiz",
+      "en": "Switzerland",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス連邦",
+      "pt-BR": "Suíça",
+      "ru": "Швейцария",
+      "zh-CN": "瑞士"
+    },
+    "iso_code": "CH",
+    "subdivision": "{\"de\":\"Zürich\",\"en\":\"Zurich\",\"es\":\"Zúrich\",\"fr\":\"Zurich\",\"ja\":\"チューリヒ州\",\"pt-BR\":\"cantão Zurique\",\"ru\":\"Цюрих\",\"zh-CN\":\"苏黎世州\"}"
+  },
+  {
+    "publicKey": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+    "alias": "gameb_1",
+    "channels": 719,
+    "capacity": 660777509,
+    "firstSeen": 1594931297,
+    "updatedAt": 1728337774,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "034ea80f8b148c750463546bd999bf7321a0e6dfc60aaf84bd0400a2e8d376c0d5",
+    "alias": "LNBϟG [Hub-1]",
+    "channels": 705,
+    "capacity": 23920331832,
+    "firstSeen": 1552695373,
+    "updatedAt": 1728338233,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+    "alias": "okx",
+    "channels": 607,
+    "capacity": 72621152654,
+    "firstSeen": 1618966051,
+    "updatedAt": 1728338000,
+    "city": {
+      "de": "Hongkong",
+      "en": "Hong Kong",
+      "es": "Hong Kong",
+      "fr": "Hong Kong",
+      "ja": "香港",
+      "pt-BR": "Victoria",
+      "ru": "Гонконг",
+      "zh-CN": "香港"
+    },
+    "country": {
+      "de": "Hongkong",
+      "en": "Hong Kong",
+      "es": "Hong Kong",
+      "fr": "Hong Kong",
+      "ja": "香港",
+      "pt-BR": "Hong Kong",
+      "ru": "Гонконг",
+      "zh-CN": "香港"
+    },
+    "iso_code": "HK",
+    "subdivision": null
+  },
+  {
+    "publicKey": "03c2abfa93eacec04721c019644584424aab2ba4dff3ac9bdab4e9c97007491dda",
+    "alias": "tippin.me",
+    "channels": 517,
+    "capacity": 1839184426,
+    "firstSeen": 1543180021,
+    "updatedAt": 1728337529,
+    "city": {
+      "de": "Tokio",
+      "en": "Tokyo",
+      "es": "Tokio",
+      "fr": "Tokyo",
+      "ja": "東京",
+      "pt-BR": "Tóquio",
+      "ru": "Токио",
+      "zh-CN": "东京"
+    },
+    "country": {
+      "de": "Japan",
+      "en": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "pt-BR": "Japão",
+      "ru": "Япония",
+      "zh-CN": "日本"
+    },
+    "iso_code": "JP",
+    "subdivision": "{\"de\":\"Tokio\",\"en\":\"Tokyo\",\"es\":\"Tokio\",\"fr\":\"Préfecture de Tokyo\",\"ja\":\"東京都\",\"pt-BR\":\"Tóquio\",\"ru\":\"Токио\",\"zh-CN\":\"东京都\"}"
+  },
+  {
+    "publicKey": "033e9ce4e8f0e68f7db49ffb6b9eecc10605f3f3fcb3c630545887749ab515b9c7",
+    "alias": "LNBϟG [Hub-2]",
+    "channels": 485,
+    "capacity": 20784698354,
+    "firstSeen": 1552695373,
+    "updatedAt": 1728337744,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877",
+    "alias": "TangoBolt",
+    "channels": 479,
+    "capacity": 6314951955,
+    "firstSeen": 1541331776,
+    "updatedAt": 1728338305,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "030c3f19d742ca294a55c00376b3b355c3c90d61c6b6b39554dbc7ac19b141c14f",
+    "alias": "Bitrefill Routing",
+    "channels": 449,
+    "capacity": 2829807749,
+    "firstSeen": 1551831319,
+    "updatedAt": 1728338142,
+    "city": {
+      "de": "Dublin",
+      "en": "Dublin",
+      "es": "Dublín",
+      "fr": "Dublin",
+      "ja": "ダブリン",
+      "pt-BR": "Dublin",
+      "ru": "Дублин",
+      "zh-CN": "都柏林"
+    },
+    "country": {
+      "de": "Irland",
+      "en": "Ireland",
+      "es": "Irlanda",
+      "fr": "Irlande",
+      "ja": "アイルランド",
+      "pt-BR": "Irlanda",
+      "ru": "Ирландия",
+      "zh-CN": "爱尔兰"
+    },
+    "iso_code": "IE",
+    "subdivision": "{\"en\":\"Leinster\",\"fr\":\"Leinster\",\"ja\":\"レンスター\",\"ru\":\"Ленстер\"}"
+  },
+  {
+    "publicKey": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+    "alias": "c=",
+    "channels": 427,
+    "capacity": 25877721298,
+    "firstSeen": 1678520302,
+    "updatedAt": 1728337228,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "02c91d6aa51aa940608b497b6beebcb1aec05be3c47704b682b3889424679ca490",
+    "alias": "LNBϟG [Hub-3]",
+    "channels": 427,
+    "capacity": 19128977377,
+    "firstSeen": 1542655061,
+    "updatedAt": 1728338030,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+    "alias": "Sunny Sarah ☀️",
+    "channels": 415,
+    "capacity": 4887379595,
+    "firstSeen": 1657071534,
+    "updatedAt": 1728338228,
+    "city": {
+      "de": "Tallinn",
+      "en": "Tallinn",
+      "es": "Tallin",
+      "fr": "Tallinn",
+      "ja": "タリン",
+      "pt-BR": "Tallinn",
+      "ru": "Таллин",
+      "zh-CN": "塔林"
+    },
+    "country": {
+      "de": "Estland",
+      "en": "Estonia",
+      "es": "Estonia",
+      "fr": "Estonie",
+      "ja": "エストニア共和国",
+      "pt-BR": "Estônia",
+      "ru": "Эстония",
+      "zh-CN": "爱沙尼亚"
+    },
+    "iso_code": "EE",
+    "subdivision": "{\"de\":\"Kreis Harju\",\"en\":\"Harjumaa\",\"es\":\"Condado de Harju\",\"fr\":\"Harju\",\"ja\":\"ハリュ県\",\"pt-BR\":\"Harjumaa\",\"ru\":\"Харьюмаа\"}"
+  },
+  {
+    "publicKey": "03d607f3e69fd032524a867b288216bfab263b6eaee4e07783799a6fe69bb84fac",
+    "alias": "Bitrefill",
+    "channels": 403,
+    "capacity": 3753963828,
+    "firstSeen": 1620238816,
+    "updatedAt": 1728337772,
+    "city": {
+      "de": "Dublin",
+      "en": "Dublin",
+      "es": "Dublín",
+      "fr": "Dublin",
+      "ja": "ダブリン",
+      "pt-BR": "Dublin",
+      "ru": "Дублин",
+      "zh-CN": "都柏林"
+    },
+    "country": {
+      "de": "Irland",
+      "en": "Ireland",
+      "es": "Irlanda",
+      "fr": "Irlande",
+      "ja": "アイルランド",
+      "pt-BR": "Irlanda",
+      "ru": "Ирландия",
+      "zh-CN": "爱尔兰"
+    },
+    "iso_code": "IE",
+    "subdivision": "{\"en\":\"Leinster\",\"fr\":\"Leinster\",\"ja\":\"レンスター\",\"ru\":\"Ленстер\"}"
+  },
+  {
+    "publicKey": "03abf6f44c355dec0d5aa155bdbdd6e0c8fefe318eff402de65c6eb2e1be55dc3e",
+    "alias": "OpenNode.com",
+    "channels": 360,
+    "capacity": 4336463233,
+    "firstSeen": 1534052498,
+    "updatedAt": 1728338178,
+    "city": {
+      "de": "Columbus",
+      "en": "Columbus",
+      "es": "Columbus",
+      "fr": "Columbus",
+      "ja": "コロンバス",
+      "pt-BR": "Columbus",
+      "ru": "Колумбус",
+      "zh-CN": "哥伦布"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Ohio\",\"en\":\"Ohio\",\"es\":\"Ohio\",\"fr\":\"Ohio\",\"ja\":\"オハイオ州\",\"pt-BR\":\"Ohio\",\"ru\":\"Огайо\",\"zh-CN\":\"俄亥俄州\"}"
+  },
+  {
+    "publicKey": "02315fe3619ffdea2561bcacecada87b226723f471a59fdbfec18c4e84bcf785b2",
+    "alias": "sphinxrouting-fceb9955a9",
+    "channels": 351,
+    "capacity": 172365133,
+    "firstSeen": 1609449805,
+    "updatedAt": 1728336495,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "035b1ff29e8db1ba8f2a4f4f95db239b54069cb949b8cde329418e2a83da4f1b30",
+    "alias": "DiamondHands💎🙌",
+    "channels": 345,
+    "capacity": 1805248946,
+    "firstSeen": 1624785048,
+    "updatedAt": 1728337766,
+    "city": {
+      "de": "Wilmington",
+      "en": "Wilmington",
+      "es": "Wilmington",
+      "fr": "Wilmington",
+      "ja": "ウィルミントン",
+      "pt-BR": "Wilmington",
+      "ru": "Уилмингтон",
+      "zh-CN": "威尔明顿"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Delaware\",\"en\":\"Delaware\",\"es\":\"Delaware\",\"fr\":\"Delaware\",\"ja\":\"デラウェア州\",\"pt-BR\":\"Delauare\",\"ru\":\"Делавэр\",\"zh-CN\":\"特拉华州\"}"
+  },
+  {
+    "publicKey": "0390b5d4492dc2f5318e5233ab2cebf6d48914881a33ef6a9c6bcdbb433ad986d0",
+    "alias": "LNBϟG [Edge-1]",
+    "channels": 331,
+    "capacity": 6432361269,
+    "firstSeen": 1542155723,
+    "updatedAt": 1728337690,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "0318ac9faa9629e7da08819bc8fe0dd2ae3044d69b1b2283a63479acffeb968483",
+    "alias": "coincharge",
+    "channels": 313,
+    "capacity": 742263465,
+    "firstSeen": 1591748991,
+    "updatedAt": 1728337752,
+    "city": {
+      "de": "Toronto",
+      "en": "Toronto",
+      "es": "Toronto",
+      "fr": "Toronto",
+      "ja": "トロント",
+      "pt-BR": "Toronto",
+      "ru": "Торонто",
+      "zh-CN": "多伦多"
+    },
+    "country": {
+      "de": "Kanada",
+      "en": "Canada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "pt-BR": "Canadá",
+      "ru": "Канада",
+      "zh-CN": "加拿大"
+    },
+    "iso_code": "CA",
+    "subdivision": "{\"en\":\"Ontario\",\"fr\":\"Ontario\",\"ja\":\"オンタリオ州\",\"pt-BR\":\"Ontário\",\"ru\":\"Онтарио\",\"zh-CN\":\"安大略\"}"
+  },
+  {
+    "publicKey": "02cfdc6b60e5931d174a342b20b50d6a2a17c6e4ef8e077ea54069a3541ad50eb0",
+    "alias": "Voltage-C2",
+    "channels": 311,
+    "capacity": 632030789,
+    "firstSeen": 1669848161,
+    "updatedAt": 1728337800,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "0231eccc6510eb2e1c97c8a190d6ea096784aa7c358355442055aac8b20654f932",
+    "alias": "BitKassa LN34961 [LND]",
+    "channels": 290,
+    "capacity": 852807069,
+    "firstSeen": 1550852842,
+    "updatedAt": 1728336923,
+    "city": {
+      "en": "Wandlitz",
+      "ru": "Вандлиц",
+      "zh-CN": "万德利茨"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Brandenburg\",\"en\":\"Brandenburg\",\"es\":\"Brandenburgo\",\"fr\":\"Brandebourg\",\"ja\":\"ブランデンブルク州\",\"pt-BR\":\"Brandenburg\",\"ru\":\"Бранденбург\",\"zh-CN\":\"勃兰登堡\"}"
+  },
+  {
+    "publicKey": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+    "alias": "allNice | torq.co",
+    "channels": 269,
+    "capacity": 6084905578,
+    "firstSeen": 1641513245,
+    "updatedAt": 1728338019,
+    "city": null,
+    "country": {
+      "de": "Frankreich",
+      "en": "France",
+      "es": "Francia",
+      "fr": "France",
+      "ja": "フランス共和国",
+      "pt-BR": "França",
+      "ru": "Франция",
+      "zh-CN": "法国"
+    },
+    "iso_code": "FR",
+    "subdivision": null
+  },
+  {
+    "publicKey": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+    "alias": "lnmarkets.com",
+    "channels": 269,
+    "capacity": 3854495144,
+    "firstSeen": 1582507618,
+    "updatedAt": 1728337518,
+    "city": {
+      "en": "Leaskdale"
+    },
+    "country": {
+      "de": "Kanada",
+      "en": "Canada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "pt-BR": "Canadá",
+      "ru": "Канада",
+      "zh-CN": "加拿大"
+    },
+    "iso_code": "CA",
+    "subdivision": "{\"en\":\"Ontario\",\"fr\":\"Ontario\",\"ja\":\"オンタリオ州\",\"pt-BR\":\"Ontário\",\"ru\":\"Онтарио\",\"zh-CN\":\"安大略\"}"
+  },
+  {
+    "publicKey": "033b63e4a9931dc151037acbce12f4f8968c86f5655cf102bbfa85a26bd4adc6d9",
+    "alias": "Garlic🧄",
+    "channels": 256,
+    "capacity": 3410593877,
+    "firstSeen": 1621111063,
+    "updatedAt": 1728338003,
+    "city": {
+      "de": "Clifton",
+      "en": "Clifton",
+      "ja": "クリフトン",
+      "pt-BR": "Clifton",
+      "ru": "Клифтон",
+      "zh-CN": "克利夫頓"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"New Jersey\",\"en\":\"New Jersey\",\"es\":\"Nueva Jersey\",\"fr\":\"New Jersey\",\"ja\":\"ニュージャージー州\",\"pt-BR\":\"Nova Jérsei\",\"ru\":\"Нью-Джерси\",\"zh-CN\":\"新泽西州\"}"
+  },
+  {
+    "publicKey": "03da1c27ca77872ac5b3e568af30673e599a47a5e4497f85c7b5da42048807b3ed",
+    "alias": "LNBϟG [Edge-3]",
+    "channels": 249,
+    "capacity": 5456624925,
+    "firstSeen": 1543169070,
+    "updatedAt": 1728338187,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "028d98b9969fbed53784a36617eb489a59ab6dc9b9d77fcdca9ff55307cd98e3c4",
+    "alias": "OpenNode.com",
+    "channels": 247,
+    "capacity": 4364006953,
+    "firstSeen": 1600904497,
+    "updatedAt": 1728337796,
+    "city": {
+      "de": "Columbus",
+      "en": "Columbus",
+      "es": "Columbus",
+      "fr": "Columbus",
+      "ja": "コロンバス",
+      "pt-BR": "Columbus",
+      "ru": "Колумбус",
+      "zh-CN": "哥伦布"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Ohio\",\"en\":\"Ohio\",\"es\":\"Ohio\",\"fr\":\"Ohio\",\"ja\":\"オハイオ州\",\"pt-BR\":\"Ohio\",\"ru\":\"Огайо\",\"zh-CN\":\"俄亥俄州\"}"
+  },
+  {
+    "publicKey": "02abfbe63425b1ba4f245af72a0a85ba16cd13365704655b2abfc13e53ad338e02",
+    "alias": "Azteco",
+    "channels": 245,
+    "capacity": 4142646979,
+    "firstSeen": 1655577407,
+    "updatedAt": 1728337686,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "029efe15ef5f0fcc2fdd6b910405e78056b28c9b64e1feff5f13b8dce307e67cad",
+    "alias": "adam.masterofpearls.net",
+    "channels": 244,
+    "capacity": 4863043552,
+    "firstSeen": 1672783404,
+    "updatedAt": 1728338024,
+    "city": null,
+    "country": {
+      "de": "Vietnam",
+      "en": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "pt-BR": "Vietnã",
+      "ru": "Вьетнам",
+      "zh-CN": "越南"
+    },
+    "iso_code": "VN",
+    "subdivision": null
+  },
+  {
+    "publicKey": "03afa7a8196dbca763ee6f9a34b634a7adc03f154e5d6979fe654db5606b5fb2b1",
+    "alias": "CoinPayments",
+    "channels": 242,
+    "capacity": 1084017938,
+    "firstSeen": 1583364530,
+    "updatedAt": 1728338105,
+    "city": null,
+    "country": {
+      "de": "UK",
+      "en": "United Kingdom",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "英国",
+      "pt-BR": "Reino Unido",
+      "ru": "Британия",
+      "zh-CN": "英国"
+    },
+    "iso_code": "GB",
+    "subdivision": null
+  },
+  {
+    "publicKey": "039edc94987c8f3adc28dab455efc00dea876089a120f573bd0b03c40d9d3fb1e1",
+    "alias": "LNBϟG [Edge-4]",
+    "channels": 239,
+    "capacity": 5179478261,
+    "firstSeen": 1542454157,
+    "updatedAt": 1728338127,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+    "alias": "kappa",
+    "channels": 236,
+    "capacity": 4335661419,
+    "firstSeen": 1675480808,
+    "updatedAt": 1728338001,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+    "alias": "Strike",
+    "channels": 233,
+    "capacity": 6653310929,
+    "firstSeen": 1711567061,
+    "updatedAt": 1728338009,
+    "city": {
+      "en": "North Charleston",
+      "ja": "ノースチャールストン",
+      "pt-BR": "North Charleston",
+      "ru": "Норт-Чарлстон",
+      "zh-CN": "北查尔斯顿"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"South Carolina\",\"en\":\"South Carolina\",\"es\":\"Carolina del Sur\",\"fr\":\"Caroline du Sud\",\"ja\":\"サウスカロライナ州\",\"pt-BR\":\"Carolina do Sul\",\"ru\":\"Южная Каролина\",\"zh-CN\":\"南卡罗来纳州\"}"
+  },
+  {
+    "publicKey": "02a04446caa81636d60d63b066f2814cbd3a6b5c258e3172cbdded7a16e2cfff4c",
+    "alias": "ln.bitstamp.net [Bitstamp]",
+    "channels": 232,
+    "capacity": 619217635,
+    "firstSeen": 1556342517,
+    "updatedAt": 1728337354,
+    "city": {
+      "de": "Frankfurt am Main",
+      "en": "Frankfurt am Main",
+      "es": "Francfort",
+      "fr": "Francfort-sur-le-Main",
+      "ja": "フランクフルト・アム・マイン",
+      "pt-BR": "Frankfurt am Main",
+      "ru": "Франкфурт",
+      "zh-CN": "法兰克福"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Hessen\",\"en\":\"Hesse\",\"es\":\"Hessen\",\"fr\":\"Hesse\",\"ja\":\"ヘッセン州\",\"pt-BR\":\"Hesse\",\"ru\":\"Гессен\",\"zh-CN\":\"黑森州\"}"
+  },
+  {
+    "publicKey": "03bc9337c7a28bb784d67742ebedd30a93bacdf7e4ca16436ef3798000242b2251",
+    "alias": "LNBϟG [Edge-2]",
+    "channels": 232,
+    "capacity": 6052899812,
+    "firstSeen": 1542397504,
+    "updatedAt": 1728337370,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "03c5528c628681aa17ab9e117aa3ee6f06c750dfb17df758ecabcd68f1567ad8c1",
+    "alias": "⚡G-Spot-21_69_420⚡",
+    "channels": 229,
+    "capacity": 1976835034,
+    "firstSeen": 1625866403,
+    "updatedAt": 1728338171,
+    "city": {
+      "de": "Lewisham",
+      "en": "Lewisham",
+      "es": "Lewisham",
+      "fr": "Lewisham",
+      "ja": "ルイシャム",
+      "pt-BR": "Lewisham",
+      "ru": "Луишем",
+      "zh-CN": "劉易舍姆"
+    },
+    "country": {
+      "de": "UK",
+      "en": "United Kingdom",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "英国",
+      "pt-BR": "Reino Unido",
+      "ru": "Британия",
+      "zh-CN": "英国"
+    },
+    "iso_code": "GB",
+    "subdivision": "{\"de\":\"England\",\"en\":\"England\",\"es\":\"Inglaterra\",\"fr\":\"Angleterre\",\"ja\":\"イングランド\",\"pt-BR\":\"Inglaterra\",\"ru\":\"Англия\",\"zh-CN\":\"英格兰\"}"
+  },
+  {
+    "publicKey": "025f1456582e70c4c06b61d5c8ed3ce229e6d0db538be337a2dc6d163b0ebc05a5",
+    "alias": "Moon (paywithmoon.com)",
+    "channels": 226,
+    "capacity": 1914572765,
+    "firstSeen": 1627040534,
+    "updatedAt": 1728335144,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+    "alias": "1sats.com⚡️lsp.flashsats.xyz",
+    "channels": 222,
+    "capacity": 6505998945,
+    "firstSeen": 1655868653,
+    "updatedAt": 1728337166,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "026ec3e3438308519a75ca4496822a6c1e229174fbcaadeeb174704c377112c331",
+    "alias": "The Bitcoin Company",
+    "channels": 213,
+    "capacity": 3048977432,
+    "firstSeen": 1623734473,
+    "updatedAt": 1728337218,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "0296b2db342fcf87ea94d981757fdf4d3e545bd5cef4919f58b5d38dfdd73bf5c9",
+    "alias": "Blocktank",
+    "channels": 210,
+    "capacity": 1214235551,
+    "firstSeen": 1642456577,
+    "updatedAt": 1728337376,
+    "city": {
+      "de": "Brüssel",
+      "en": "Brussels",
+      "es": "Bruselas",
+      "fr": "Bruxelles",
+      "ja": "ブリュッセル",
+      "pt-BR": "Bruxelas",
+      "ru": "Брюссель",
+      "zh-CN": "布鲁塞尔"
+    },
+    "country": {
+      "de": "Belgien",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "fr": "Belgique",
+      "ja": "ベルギー王国",
+      "pt-BR": "Bélgica",
+      "ru": "Бельгия",
+      "zh-CN": "比利时"
+    },
+    "iso_code": "BE",
+    "subdivision": "{\"de\":\"Region Brüssel-Hauptstadt\",\"en\":\"Brussels Capital\",\"es\":\"Bruselas\",\"fr\":\"Bruxelles-Capitale\",\"ja\":\"ブリュッセル\",\"pt-BR\":\"Bruxelas\",\"ru\":\"Брюссельский столичный регион\",\"zh-CN\":\"布鲁塞尔首都大区\"}"
+  },
+  {
+    "publicKey": "02f4c77dcf12255ccf705c18b8d6b95e4f884910bf61e8aa21242607193a79da1b",
+    "alias": "WCC-BOUNCER",
+    "channels": 210,
+    "capacity": 1281585139,
+    "firstSeen": 1622235407,
+    "updatedAt": 1728337972,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "039cdd937f8d83fb2f78c8d7ddc92ae28c9dbb5c4827181cfc80df60dee1b7bf19",
+    "alias": "Kazumyon",
+    "channels": 203,
+    "capacity": 1968942249,
+    "firstSeen": 1661945987,
+    "updatedAt": 1728338068,
+    "city": {
+      "en": "Nakashima",
+      "ja": "中島"
+    },
+    "country": {
+      "de": "Japan",
+      "en": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "pt-BR": "Japão",
+      "ru": "Япония",
+      "zh-CN": "日本"
+    },
+    "iso_code": "JP",
+    "subdivision": "{\"de\":\"Präfektur Hyogo\",\"en\":\"Hyōgo\",\"es\":\"Prefectura de Hyogo\",\"fr\":\"préfecture de Hyōgo\",\"ja\":\"兵庫県\",\"pt-BR\":\"Hyōgo\",\"ru\":\"Хиого\"}"
+  },
+  {
+    "publicKey": "02cc79b8d771cc79d323bd71e54ef1780cab50e7c0ef2a4beb625fc9dcbbcc6d24",
+    "alias": "Voltage-c1",
+    "channels": 202,
+    "capacity": 357135457,
+    "firstSeen": 1664925900,
+    "updatedAt": 1728338053,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+    "alias": "cyberdyne.sh",
+    "channels": 194,
+    "capacity": 8063193735,
+    "firstSeen": 1666441676,
+    "updatedAt": 1728338233,
+    "city": {
+      "de": "Amsterdam",
+      "en": "Amsterdam",
+      "es": "Ámsterdam",
+      "fr": "Amsterdam",
+      "ja": "Amusuterudamu",
+      "pt-BR": "Amesterdã",
+      "ru": "Амстердам",
+      "zh-CN": "阿姆斯特丹"
+    },
+    "country": {
+      "de": "Niederlande",
+      "en": "The Netherlands",
+      "es": "Holanda",
+      "fr": "Pays-Bas",
+      "ja": "オランダ王国",
+      "pt-BR": "Holanda",
+      "ru": "Нидерланды",
+      "zh-CN": "荷兰"
+    },
+    "iso_code": "NL",
+    "subdivision": "{\"de\":\"Nordholland\",\"en\":\"North Holland\",\"es\":\"Holanda Septentrional\",\"fr\":\"Hollande-Septentrionale\",\"ja\":\"北ホラント州\",\"pt-BR\":\"Holanda do Norte\",\"ru\":\"Северная Голландия\",\"zh-CN\":\"北荷兰省\"}"
+  },
+  {
+    "publicKey": "031015a7839468a3c266d662d5bb21ea4cea24226936e2864a7ca4f2c3939836e0",
+    "alias": "031015a7839468a3c",
+    "channels": 190,
+    "capacity": 2923238271,
+    "firstSeen": 1558606036,
+    "updatedAt": 1728337943,
+    "city": null,
+    "country": {
+      "de": "UK",
+      "en": "United Kingdom",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "英国",
+      "pt-BR": "Reino Unido",
+      "ru": "Британия",
+      "zh-CN": "英国"
+    },
+    "iso_code": "GB",
+    "subdivision": null
+  },
+  {
+    "publicKey": "02bfe975eb18b29455ee6d5c3a2dc6c8097cb4d9a38fb440ded1e464b33ccc9f60",
+    "alias": "Lightning.Store",
+    "channels": 188,
+    "capacity": 323475280,
+    "firstSeen": 1611019848,
+    "updatedAt": 1728338125,
+    "city": {
+      "de": "Toronto",
+      "en": "Toronto",
+      "es": "Toronto",
+      "fr": "Toronto",
+      "ja": "トロント",
+      "pt-BR": "Toronto",
+      "ru": "Торонто",
+      "zh-CN": "多伦多"
+    },
+    "country": {
+      "de": "Kanada",
+      "en": "Canada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "pt-BR": "Canadá",
+      "ru": "Канада",
+      "zh-CN": "加拿大"
+    },
+    "iso_code": "CA",
+    "subdivision": "{\"en\":\"Ontario\",\"fr\":\"Ontario\",\"ja\":\"オンタリオ州\",\"pt-BR\":\"Ontário\",\"ru\":\"Онтарио\",\"zh-CN\":\"安大略\"}"
+  },
+  {
+    "publicKey": "02d695b01c7a6909e716c863fb39bc5fb7bbdc3824b7fdce53adc593e5be080e73",
+    "alias": "MindlinerTre",
+    "channels": 185,
+    "capacity": 2131806941,
+    "firstSeen": 1671355438,
+    "updatedAt": 1728338103,
+    "city": {
+      "de": "Zürich",
+      "en": "Zurich",
+      "es": "Zúrich",
+      "fr": "Zurich",
+      "ja": "チューリッヒ",
+      "pt-BR": "Zurique",
+      "ru": "Цюрих",
+      "zh-CN": "苏黎世"
+    },
+    "country": {
+      "de": "Schweiz",
+      "en": "Switzerland",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス連邦",
+      "pt-BR": "Suíça",
+      "ru": "Швейцария",
+      "zh-CN": "瑞士"
+    },
+    "iso_code": "CH",
+    "subdivision": "{\"de\":\"Zürich\",\"en\":\"Zurich\",\"es\":\"Zúrich\",\"fr\":\"Zurich\",\"ja\":\"チューリヒ州\",\"pt-BR\":\"cantão Zurique\",\"ru\":\"Цюрих\",\"zh-CN\":\"苏黎世州\"}"
+  },
+  {
+    "publicKey": "038bcc6471941c7d6c14a8ce5b7159d8f73a3a0bb9a93e8896bcb892e14552658a",
+    "alias": "MUTATRUM",
+    "channels": 185,
+    "capacity": 670219382,
+    "firstSeen": 1550089491,
+    "updatedAt": 1728338102,
+    "city": {
+      "en": "Kaatsheuvel"
+    },
+    "country": {
+      "de": "Niederlande",
+      "en": "The Netherlands",
+      "es": "Holanda",
+      "fr": "Pays-Bas",
+      "ja": "オランダ王国",
+      "pt-BR": "Holanda",
+      "ru": "Нидерланды",
+      "zh-CN": "荷兰"
+    },
+    "iso_code": "NL",
+    "subdivision": "{\"de\":\"Nordbrabant\",\"en\":\"North Brabant\",\"es\":\"Brabante Septentrional\",\"fr\":\"Brabant-Septentrional\",\"ja\":\"北ブラバント州\",\"pt-BR\":\"Brabante do Norte\",\"ru\":\"Северный Брабант\",\"zh-CN\":\"北布拉班特省\"}"
+  },
+  {
+    "publicKey": "020d1617e27ac022395352f2b3774969593d3d6ddff6fb117d820a9dda8da45217",
+    "alias": "i'llTryAnythingOnce",
+    "channels": 182,
+    "capacity": 1582265029,
+    "firstSeen": 1627922782,
+    "updatedAt": 1728329082,
+    "city": {
+      "en": "Gunzenhausen",
+      "ru": "Гунценхаузен",
+      "zh-CN": "贡岑豪森"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Bayern\",\"en\":\"Bavaria\",\"es\":\"Baviera\",\"fr\":\"Bavière\",\"ja\":\"バイエルン\",\"pt-BR\":\"Baviera\",\"ru\":\"Бавария\",\"zh-CN\":\"巴伐利亚州\"}"
+  },
+  {
+    "publicKey": "02b21ca992bf95e3f324302265ad86cec24f36166fd7afca44efa0809aaa8b25c5",
+    "alias": "8DegreesWO",
+    "channels": 181,
+    "capacity": 1141567001,
+    "firstSeen": 1632053855,
+    "updatedAt": 1728337944,
+    "city": {
+      "de": "Sydney",
+      "en": "Sydney",
+      "es": "Sídney",
+      "fr": "Sydney",
+      "ja": "シドニー",
+      "pt-BR": "Sydney",
+      "ru": "Сидней",
+      "zh-CN": "悉尼"
+    },
+    "country": {
+      "de": "Australien",
+      "en": "Australia",
+      "es": "Australia",
+      "fr": "Australie",
+      "ja": "オーストラリア",
+      "pt-BR": "Austrália",
+      "ru": "Австралия",
+      "zh-CN": "澳大利亚"
+    },
+    "iso_code": "AU",
+    "subdivision": "{\"de\":\"New South Wales\",\"en\":\"New South Wales\",\"es\":\"Nueva Gales del Sur\",\"fr\":\"Nouvelle-Galles du Sud\",\"ja\":\"ニューサウスウェールズ州\",\"pt-BR\":\"Nova Gales do Sul\",\"ru\":\"Новый Южный Уэльс\",\"zh-CN\":\"新南威尔士州\"}"
+  },
+  {
+    "publicKey": "02ec20f34bb94460f3d63780dfc24a4d4a1ddabc3bd86c09e1830c5b5db08953e5",
+    "alias": "ln-1.anycoin.cz",
+    "channels": 178,
+    "capacity": 1113340478,
+    "firstSeen": 1639168713,
+    "updatedAt": 1728337167,
+    "city": {
+      "de": "Frankfurt am Main",
+      "en": "Frankfurt am Main",
+      "es": "Francfort",
+      "fr": "Francfort-sur-le-Main",
+      "ja": "フランクフルト・アム・マイン",
+      "pt-BR": "Frankfurt am Main",
+      "ru": "Франкфурт",
+      "zh-CN": "法兰克福"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Hessen\",\"en\":\"Hesse\",\"es\":\"Hessen\",\"fr\":\"Hesse\",\"ja\":\"ヘッセン州\",\"pt-BR\":\"Hesse\",\"ru\":\"Гессен\",\"zh-CN\":\"黑森州\"}"
+  },
+  {
+    "publicKey": "02907887f9bfcc9e83512bfdf40ddfdabcb8569786f11ac3e9c52c42d77da3eb6b",
+    "alias": "tokyo",
+    "channels": 176,
+    "capacity": 134873630,
+    "firstSeen": 1680084808,
+    "updatedAt": 1728333607,
+    "city": {
+      "de": "Düsseldorf",
+      "en": "Düsseldorf",
+      "es": "Düsseldorf",
+      "fr": "Düsseldorf",
+      "ja": "デュッセルドルフ",
+      "pt-BR": "Düsseldorf",
+      "ru": "Дюссельдорф",
+      "zh-CN": "杜塞尔多夫"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Nordrhein-Westfalen\",\"en\":\"North Rhine-Westphalia\",\"es\":\"Renania del Norte-Westfalia\",\"fr\":\"Rhénanie du Nord-Westphalie\",\"ja\":\"ノルトライン＝ヴェストファーレン州\",\"pt-BR\":\"Renânia do Norte-Vestfália\",\"ru\":\"Северный Рейн-Вестфалия\",\"zh-CN\":\"北莱茵-威斯特法伦\"}"
+  },
+  {
+    "publicKey": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+    "alias": "xmrk reloaded",
+    "channels": 172,
+    "capacity": 1406483460,
+    "firstSeen": 1714328986,
+    "updatedAt": 1728338076,
+    "city": {
+      "de": "Nürnberg",
+      "en": "Nuremberg",
+      "es": "Nuremberg",
+      "fr": "Nuremberg",
+      "ja": "ニュルンベルク",
+      "pt-BR": "Nuremberga",
+      "ru": "Нюрнберг",
+      "zh-CN": "纽伦堡"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Bayern\",\"en\":\"Bavaria\",\"es\":\"Baviera\",\"fr\":\"Bavière\",\"ja\":\"バイエルン\",\"pt-BR\":\"Baviera\",\"ru\":\"Бавария\",\"zh-CN\":\"巴伐利亚州\"}"
+  },
+  {
+    "publicKey": "031f2669adab71548fad4432277a0d90233e3bc07ac29cfb0b3e01bd3fb26cb9fa",
+    "alias": "Voltage",
+    "channels": 172,
+    "capacity": 1195303699,
+    "firstSeen": 1631988490,
+    "updatedAt": 1728337999,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f",
+    "alias": "Binance",
+    "channels": 170,
+    "capacity": 57595000000,
+    "firstSeen": 1694099830,
+    "updatedAt": 1728337750,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "02f460ae6d3d3e104f8afe520ae0cff3d94c35c2ba8df66da89f3c8006a265b90a",
+    "alias": "ThunderHorse2",
+    "channels": 168,
+    "capacity": 1914348291,
+    "firstSeen": 1650916878,
+    "updatedAt": 1728337943,
+    "city": {
+      "de": "Las Vegas",
+      "en": "Las Vegas",
+      "es": "Las Vegas",
+      "fr": "Las Vegas",
+      "ja": "ラスベガス",
+      "pt-BR": "Las Vegas",
+      "ru": "Лас-Вегас",
+      "zh-CN": "拉斯维加斯"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Nevada\",\"en\":\"Nevada\",\"es\":\"Nevada\",\"fr\":\"Nevada\",\"ja\":\"ネバダ州\",\"pt-BR\":\"Nevada\",\"ru\":\"Невада\",\"zh-CN\":\"内华达州\"}"
+  },
+  {
+    "publicKey": "020c92d71dfe47d49d322eed910064787973dff96c05a39d75a75d7e8f33aead4c",
+    "alias": "LN-Fukaya Japan",
+    "channels": 166,
+    "capacity": 901657996,
+    "firstSeen": 1549887899,
+    "updatedAt": 1728335354,
+    "city": {
+      "de": "Tokio",
+      "en": "Tokyo",
+      "es": "Tokio",
+      "fr": "Tokyo",
+      "ja": "東京",
+      "pt-BR": "Tóquio",
+      "ru": "Токио",
+      "zh-CN": "东京"
+    },
+    "country": {
+      "de": "Japan",
+      "en": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "pt-BR": "Japão",
+      "ru": "Япония",
+      "zh-CN": "日本"
+    },
+    "iso_code": "JP",
+    "subdivision": "{\"de\":\"Tokio\",\"en\":\"Tokyo\",\"es\":\"Tokio\",\"fr\":\"Préfecture de Tokyo\",\"ja\":\"東京都\",\"pt-BR\":\"Tóquio\",\"ru\":\"Токио\",\"zh-CN\":\"东京都\"}"
+  },
+  {
+    "publicKey": "03e691f81f08c56fa876cc4ef5c9e8b727bd682cf35605be25d48607a802526053",
+    "alias": "Lightning.Watch",
+    "channels": 163,
+    "capacity": 275221319,
+    "firstSeen": 1610318885,
+    "updatedAt": 1728337776,
+    "city": {
+      "de": "Helsinki",
+      "en": "Helsinki",
+      "es": "Helsinki",
+      "fr": "Helsinki",
+      "ja": "ヘルシンキ",
+      "pt-BR": "Helsínquia",
+      "ru": "Хельсинки",
+      "zh-CN": "赫尔辛基"
+    },
+    "country": {
+      "de": "Finnland",
+      "en": "Finland",
+      "es": "Finlandia",
+      "fr": "Finlande",
+      "ja": "フィンランド共和国",
+      "pt-BR": "Finlândia",
+      "ru": "Финляндия",
+      "zh-CN": "芬兰"
+    },
+    "iso_code": "FI",
+    "subdivision": "{\"de\":\"Uusimaa\",\"en\":\"Uusimaa\",\"es\":\"Uusimaa\",\"fr\":\"Uusimaa\",\"ja\":\"ウーシマー県\",\"pt-BR\":\"Uusimaa\",\"ru\":\"Уусимаа\",\"zh-CN\":\"新地区\"}"
+  },
+  {
+    "publicKey": "0284aa8233ee3c0482ecf87c60094cacd15a17feb0bfa59f1898fe91478020eb76",
+    "alias": "Imamura",
+    "channels": 162,
+    "capacity": 1025755425,
+    "firstSeen": 1704435532,
+    "updatedAt": 1728337714,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "0202e7727ee46d943a44c7bf0dce14220a839630dee67d03446bf935178b55a0df",
+    "alias": "The Captain [Coincept.com]",
+    "channels": 161,
+    "capacity": 2025409646,
+    "firstSeen": 1591912655,
+    "updatedAt": 1728337759,
+    "city": {
+      "de": "Helsinki",
+      "en": "Helsinki",
+      "es": "Helsinki",
+      "fr": "Helsinki",
+      "ja": "ヘルシンキ",
+      "pt-BR": "Helsínquia",
+      "ru": "Хельсинки",
+      "zh-CN": "赫尔辛基"
+    },
+    "country": {
+      "de": "Finnland",
+      "en": "Finland",
+      "es": "Finlandia",
+      "fr": "Finlande",
+      "ja": "フィンランド共和国",
+      "pt-BR": "Finlândia",
+      "ru": "Финляндия",
+      "zh-CN": "芬兰"
+    },
+    "iso_code": "FI",
+    "subdivision": "{\"de\":\"Uusimaa\",\"en\":\"Uusimaa\",\"es\":\"Uusimaa\",\"fr\":\"Uusimaa\",\"ja\":\"ウーシマー県\",\"pt-BR\":\"Uusimaa\",\"ru\":\"Уусимаа\",\"zh-CN\":\"新地区\"}"
+  },
+  {
+    "publicKey": "023e09c43b215bd3dbf483bcb409da3322ea5ea3b046f74698b89ee9ea785dd30a",
+    "alias": "MerchantConnectHUB",
+    "channels": 158,
+    "capacity": 1458353735,
+    "firstSeen": 1609549234,
+    "updatedAt": 1728337507,
+    "city": {
+      "de": "Stockholm",
+      "en": "Stockholm",
+      "es": "Estocolmo",
+      "fr": "Stockholm",
+      "ja": "ストックホルム",
+      "pt-BR": "Estocolmo",
+      "ru": "Стокгольм",
+      "zh-CN": "斯德哥尔摩"
+    },
+    "country": {
+      "de": "Schweden",
+      "en": "Sweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン王国",
+      "pt-BR": "Suécia",
+      "ru": "Швеция",
+      "zh-CN": "瑞典"
+    },
+    "iso_code": "SE",
+    "subdivision": "{\"de\":\"Stockholm\",\"en\":\"Stockholm County\",\"fr\":\"Stockholm\"}"
+  },
+  {
+    "publicKey": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
+    "alias": "🚀🌑 BOLTENING.club",
+    "channels": 154,
+    "capacity": 261793925,
+    "firstSeen": 1531504550,
+    "updatedAt": 1728329954,
+    "city": {
+      "en": "Gunzenhausen",
+      "ru": "Гунценхаузен",
+      "zh-CN": "贡岑豪森"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Bayern\",\"en\":\"Bavaria\",\"es\":\"Baviera\",\"fr\":\"Bavière\",\"ja\":\"バイエルン\",\"pt-BR\":\"Baviera\",\"ru\":\"Бавария\",\"zh-CN\":\"巴伐利亚州\"}"
+  },
+  {
+    "publicKey": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+    "alias": "Babylon-4a",
+    "channels": 154,
+    "capacity": 1336108693,
+    "firstSeen": 1599603926,
+    "updatedAt": 1728338002,
+    "city": {
+      "de": "Atlanta",
+      "en": "Atlanta",
+      "es": "Atlanta",
+      "fr": "Atlanta",
+      "ja": "アトランタ",
+      "pt-BR": "Atlanta",
+      "ru": "Атланта",
+      "zh-CN": "亚特兰大"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Georgia\",\"en\":\"Georgia\",\"es\":\"Georgia\",\"fr\":\"Géorgie\",\"ja\":\"ジョージア州\",\"pt-BR\":\"Geórgia\",\"ru\":\"Джорджия\",\"zh-CN\":\"乔治亚\"}"
+  },
+  {
+    "publicKey": "03cc1d0932bb99b0697f5b5e5961b83ab7fd66f1efc4c9f5c7bad66c1bcbe78f02",
+    "alias": "⚡️ STACKER.NEWS ⚡️",
+    "channels": 154,
+    "capacity": 481974194,
+    "firstSeen": 1630784680,
+    "updatedAt": 1728338031,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "03b9aacb265dc5ebde04b91b28f7c8bb6ba0af146e5f37426915742daf8f195a09",
+    "alias": "DeutscheBank|CLN",
+    "channels": 153,
+    "capacity": 868841799,
+    "firstSeen": 1669405088,
+    "updatedAt": 1728337335,
+    "city": {
+      "de": "Linz",
+      "en": "Linz",
+      "es": "Linz",
+      "fr": "Linz",
+      "ja": "リンツ",
+      "pt-BR": "Linz",
+      "ru": "Линц",
+      "zh-CN": "林茨"
+    },
+    "country": {
+      "de": "Österreich",
+      "en": "Austria",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア共和国",
+      "pt-BR": "Áustria",
+      "ru": "Австрия",
+      "zh-CN": "奥地利"
+    },
+    "iso_code": "AT",
+    "subdivision": "{\"de\":\"Oberösterreich\",\"en\":\"Upper Austria\",\"es\":\"Alta Austria\",\"fr\":\"Haute-Autriche\",\"ja\":\"オーバーエスターライヒ州\",\"pt-BR\":\"Alta Áustria\",\"ru\":\"Верхняя Австрия\"}"
+  },
+  {
+    "publicKey": "025e9497188d33af48bb15cfc3cd6d7c549eed05b5f54d45615d3cb7ec3b562588",
+    "alias": "wobloz",
+    "channels": 151,
+    "capacity": 887392559,
+    "firstSeen": 1636602317,
+    "updatedAt": 1728336788,
+    "city": {
+      "de": "Prag",
+      "en": "Prague",
+      "es": "Praga",
+      "fr": "Prague",
+      "ja": "プラハ",
+      "pt-BR": "Praga",
+      "ru": "Прага",
+      "zh-CN": "布拉格"
+    },
+    "country": {
+      "de": "Tschechien",
+      "en": "Czechia",
+      "es": "Chequia",
+      "fr": "Tchéquie",
+      "ja": "チェコ共和国",
+      "pt-BR": "Chéquia",
+      "ru": "Чехия",
+      "zh-CN": "捷克"
+    },
+    "iso_code": "CZ",
+    "subdivision": "{\"de\":\"Prag\",\"en\":\"Prague\",\"es\":\"Praga\",\"fr\":\"Prague\",\"pt-BR\":\"Praga\"}"
+  },
+  {
+    "publicKey": "0337694505123a12a8fadd95523dcc235898ad3b80a06e4a63ca26fed68dd0d17c",
+    "alias": "033769 💚 💚 💚",
+    "channels": 149,
+    "capacity": 711067751,
+    "firstSeen": 1604964979,
+    "updatedAt": 1728337545,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590",
+    "alias": "fixedfloat.com",
+    "channels": 147,
+    "capacity": 7279501818,
+    "firstSeen": 1631008567,
+    "updatedAt": 1728337697,
+    "city": null,
+    "country": {
+      "de": "Litauen",
+      "en": "Lithuania",
+      "es": "Lituania",
+      "fr": "Lituanie",
+      "ja": "リトアニア共和国",
+      "pt-BR": "Lituânia",
+      "ru": "Литва",
+      "zh-CN": "立陶宛"
+    },
+    "iso_code": "LT",
+    "subdivision": null
+  },
+  {
+    "publicKey": "02d96eadea3d780104449aca5c93461ce67c1564e2e1d73225fa67dd3b997a6018",
+    "alias": "Boltz|CLN",
+    "channels": 145,
+    "capacity": 1692916712,
+    "firstSeen": 1692971171,
+    "updatedAt": 1728337564,
+    "city": {
+      "de": "Madrid",
+      "en": "Madrid",
+      "es": "Madrid",
+      "fr": "Madrid",
+      "ja": "マドリード市",
+      "pt-BR": "Madrid",
+      "ru": "Мадрид",
+      "zh-CN": "马德里"
+    },
+    "country": {
+      "de": "Spanien",
+      "en": "Spain",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "pt-BR": "Espanha",
+      "ru": "Испания",
+      "zh-CN": "西班牙"
+    },
+    "iso_code": "ES",
+    "subdivision": "{\"de\":\"Madrid\",\"en\":\"Madrid\",\"es\":\"Madrid\",\"fr\":\"Communauté de Madrid\",\"ja\":\"コムニダ・デ・マドリッド\",\"pt-BR\":\"Comunidade de Madrid\",\"ru\":\"Область Мадрид\",\"zh-CN\":\"马德里自治区\"}"
+  },
+  {
+    "publicKey": "02dfe525d9c5b4bb52a55aa3d67115fa4a6326599c686dbd1083cffe0f45c114f8",
+    "alias": "02dfe525d9c5b4bb52a5",
+    "channels": 143,
+    "capacity": 2149563560,
+    "firstSeen": 1641837381,
+    "updatedAt": 1728338100,
+    "city": null,
+    "country": {
+      "de": "Niederlande",
+      "en": "The Netherlands",
+      "es": "Holanda",
+      "fr": "Pays-Bas",
+      "ja": "オランダ王国",
+      "pt-BR": "Holanda",
+      "ru": "Нидерланды",
+      "zh-CN": "荷兰"
+    },
+    "iso_code": "NL",
+    "subdivision": null
+  },
+  {
+    "publicKey": "033dee9c6a0afc40ffd8f27d68ef260f3e5e1c19e59c6f9bb607fb04c1d497a809",
+    "alias": "⚡️MasterYoda⚡",
+    "channels": 143,
+    "capacity": 981479220,
+    "firstSeen": 1623584954,
+    "updatedAt": 1728337507,
+    "city": {
+      "de": "Peoria",
+      "en": "Peoria",
+      "es": "Peoria",
+      "fr": "Peoria",
+      "ja": "ピオリア",
+      "pt-BR": "Peoria",
+      "ru": "Пеория"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Arizona\",\"en\":\"Arizona\",\"es\":\"Arizona\",\"fr\":\"Arizona\",\"ja\":\"アリゾナ州\",\"pt-BR\":\"Arizona\",\"ru\":\"Аризона\"}"
+  },
+  {
+    "publicKey": "03bdaa035f786c6e80aa728eb9a21caf2126550b34c09021e57b2280ae9190457c",
+    "alias": "lnnode.lnfi.network",
+    "channels": 141,
+    "capacity": 1716119381,
+    "firstSeen": 1714812712,
+    "updatedAt": 1728337845,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "026d0169e8c220d8e789de1e7543f84b9041bbb3e819ab14b9824d37caa94f1eb2",
+    "alias": "Zap-O-Matic",
+    "channels": 140,
+    "capacity": 3073191861,
+    "firstSeen": 1700350318,
+    "updatedAt": 1728336923,
+    "city": {
+      "de": "Portland",
+      "en": "Portland",
+      "es": "Portland",
+      "fr": "Portland",
+      "ja": "ポートランド",
+      "pt-BR": "Portland",
+      "ru": "Портленд"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "03c157946cc1cd376b929e36006e645fae490b1b1d4156b40db804e01b4bda48cd",
+    "alias": "The Continental",
+    "channels": 140,
+    "capacity": 2895218594,
+    "firstSeen": 1672264767,
+    "updatedAt": 1728338102,
+    "city": null,
+    "country": {
+      "de": "Island",
+      "en": "Iceland",
+      "es": "Islandia",
+      "fr": "Islande",
+      "ja": "アイスランド共和国",
+      "pt-BR": "Islândia",
+      "ru": "Исландия",
+      "zh-CN": "冰岛"
+    },
+    "iso_code": "IS",
+    "subdivision": null
+  },
+  {
+    "publicKey": "037f66e84e38fc2787d578599dfe1fcb7b71f9de4fb1e453c5ab85c05f5ce8c2e3",
+    "alias": "HODLmeTight",
+    "channels": 138,
+    "capacity": 1288460404,
+    "firstSeen": 1623308308,
+    "updatedAt": 1728338102,
+    "city": {
+      "de": "Frankfurt am Main",
+      "en": "Frankfurt am Main",
+      "es": "Francfort",
+      "fr": "Francfort-sur-le-Main",
+      "ja": "フランクフルト・アム・マイン",
+      "pt-BR": "Frankfurt am Main",
+      "ru": "Франкфурт",
+      "zh-CN": "法兰克福"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Hessen\",\"en\":\"Hesse\",\"es\":\"Hessen\",\"fr\":\"Hesse\",\"ja\":\"ヘッセン州\",\"pt-BR\":\"Hesse\",\"ru\":\"Гессен\",\"zh-CN\":\"黑森州\"}"
+  },
+  {
+    "publicKey": "024a8228d764091fce2ed67e1a7404f83e38ea3c7cb42030a2789e73cf3b341365",
+    "alias": "node01.fulmo.org",
+    "channels": 136,
+    "capacity": 430598615,
+    "firstSeen": 1536810852,
+    "updatedAt": 1728337002,
+    "city": {
+      "de": "Halle",
+      "en": "Halle",
+      "es": "Halle",
+      "fr": "Halle",
+      "ja": "ハレ",
+      "pt-BR": "Halle an der Saale",
+      "ru": "Галле"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Sachsen-Anhalt\",\"en\":\"Saxony-Anhalt\",\"es\":\"Sajonia-Anhalt\",\"fr\":\"Saxe-Anhalt\",\"ja\":\"ザクセン＝アンハルト州\",\"pt-BR\":\"Saxônia-Anhalt\",\"ru\":\"Саксония-Анхальт\",\"zh-CN\":\"萨克森-安哈尔特\"}"
+  },
+  {
+    "publicKey": "03641a88d80a2a85bbecd770577aca9b5495616e9fef63d66ef2631b7cca1d395d",
+    "alias": "Nodelou🐈",
+    "channels": 135,
+    "capacity": 1431308562,
+    "firstSeen": 1648154581,
+    "updatedAt": 1728335830,
+    "city": {
+      "de": "Ashburn",
+      "en": "Ashburn",
+      "es": "Ashburn",
+      "fr": "Ashburn",
+      "ja": "アッシュバーン",
+      "pt-BR": "Ashburn",
+      "ru": "Ашберн",
+      "zh-CN": "阿什本"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Virginia\",\"en\":\"Virginia\",\"es\":\"Virginia\",\"fr\":\"Virginie\",\"ja\":\"バージニア州\",\"pt-BR\":\"Virgínia\",\"ru\":\"Вирджиния\",\"zh-CN\":\"弗吉尼亚州\"}"
+  },
+  {
+    "publicKey": "033533e2db6311c1d417d41279c067d8713ad8a7d577a0d91e65df2f6a82c5b862",
+    "alias": "aybabtu",
+    "channels": 134,
+    "capacity": 673000945,
+    "firstSeen": 1642239441,
+    "updatedAt": 1728337736,
+    "city": {
+      "de": "München",
+      "en": "Munich",
+      "es": "Múnich",
+      "fr": "Munich",
+      "ja": "ミュンヘン",
+      "pt-BR": "Munique",
+      "ru": "Мюнхен",
+      "zh-CN": "慕尼黑"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Bayern\",\"en\":\"Bavaria\",\"es\":\"Baviera\",\"fr\":\"Bavière\",\"ja\":\"バイエルン\",\"pt-BR\":\"Baviera\",\"ru\":\"Бавария\",\"zh-CN\":\"巴伐利亚州\"}"
+  },
+  {
+    "publicKey": "02a98e8c590a1b5602049d6b21d8f4c8861970aa310762f42eae1b2be88372e924",
+    "alias": "ed528ad49bedd1f7a638a",
+    "channels": 133,
+    "capacity": 3562782247,
+    "firstSeen": 1666930404,
+    "updatedAt": 1728337168,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "034a879c36f418cb5b44b6903b3c6c1cfb5f4beb1e79b9b479c040b7df9cbc56be",
+    "alias": "pedroLND",
+    "channels": 133,
+    "capacity": 1574856592,
+    "firstSeen": 1621111147,
+    "updatedAt": 1728338033,
+    "city": {
+      "de": "Frankfurt am Main",
+      "en": "Frankfurt am Main",
+      "es": "Francfort",
+      "fr": "Francfort-sur-le-Main",
+      "ja": "フランクフルト・アム・マイン",
+      "pt-BR": "Frankfurt am Main",
+      "ru": "Франкфурт",
+      "zh-CN": "法兰克福"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "iso_code": "DE",
+    "subdivision": "{\"de\":\"Hessen\",\"en\":\"Hesse\",\"es\":\"Hessen\",\"fr\":\"Hesse\",\"ja\":\"ヘッセン州\",\"pt-BR\":\"Hesse\",\"ru\":\"Гессен\",\"zh-CN\":\"黑森州\"}"
+  },
+  {
+    "publicKey": "03b428ba4b48b524f1fa929203ddc2f0971c2077c2b89bb5b22fd83ed82ac2f7e1",
+    "alias": "lndus1.zaphq.io",
+    "channels": 133,
+    "capacity": 4840615445,
+    "firstSeen": 1605656730,
+    "updatedAt": 1728338019,
+    "city": {
+      "en": "North Charleston",
+      "ja": "ノースチャールストン",
+      "pt-BR": "North Charleston",
+      "ru": "Норт-Чарлстон",
+      "zh-CN": "北查尔斯顿"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"South Carolina\",\"en\":\"South Carolina\",\"es\":\"Carolina del Sur\",\"fr\":\"Caroline du Sud\",\"ja\":\"サウスカロライナ州\",\"pt-BR\":\"Carolina do Sul\",\"ru\":\"Южная Каролина\",\"zh-CN\":\"南卡罗来纳州\"}"
+  },
+  {
+    "publicKey": "02e7c42ae2952d7a71398e23535b53ffc60deb269acbc7c10307e6b797b91b1e79",
+    "alias": "PeerName.com",
+    "channels": 132,
+    "capacity": 202094162,
+    "firstSeen": 1542238186,
+    "updatedAt": 1728337804,
+    "city": {
+      "de": "Sofia",
+      "en": "Sofia",
+      "es": "Sofía",
+      "fr": "Sofia",
+      "ja": "ソフィア",
+      "pt-BR": "Sófia",
+      "ru": "София"
+    },
+    "country": {
+      "de": "Bulgarien",
+      "en": "Bulgaria",
+      "es": "Bulgaria",
+      "fr": "Bulgarie",
+      "ja": "ブルガリア共和国",
+      "pt-BR": "Bulgária",
+      "ru": "Болгария",
+      "zh-CN": "保加利亚"
+    },
+    "iso_code": "BG",
+    "subdivision": "{\"en\":\"Sofia-Capital\"}"
+  },
+  {
+    "publicKey": "03b006c37dfb8681e5db9f513386d06c9d18bd514fae5d79a7ed2d5991c7d57330",
+    "alias": "YTMND",
+    "channels": 132,
+    "capacity": 2433290228,
+    "firstSeen": 1617752799,
+    "updatedAt": 1728338233,
+    "city": null,
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": null
+  },
+  {
+    "publicKey": "037f6c805dfef7a0f01cca0abcea96352a32aa478c63c974bc2e726cad8d026a89",
+    "alias": "LNServerFocus",
+    "channels": 131,
+    "capacity": 858790042,
+    "firstSeen": 1692359899,
+    "updatedAt": 1728338100,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "03e9c99fddf5aaa60e22c166622206947b1fb14ae2926f550f837af6aa83556bb8",
+    "alias": "Shockwave Rider",
+    "channels": 131,
+    "capacity": 1221055474,
+    "firstSeen": 1632487352,
+    "updatedAt": 1728338078,
+    "city": {
+      "de": "Stevenage",
+      "en": "Stevenage",
+      "es": "Stevenage",
+      "fr": "Stevenage",
+      "ja": "スティーブニッジ",
+      "pt-BR": "Stevenage",
+      "ru": "Стивенедж",
+      "zh-CN": "斯蒂夫尼奇"
+    },
+    "country": {
+      "de": "UK",
+      "en": "United Kingdom",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "英国",
+      "pt-BR": "Reino Unido",
+      "ru": "Британия",
+      "zh-CN": "英国"
+    },
+    "iso_code": "GB",
+    "subdivision": "{\"de\":\"England\",\"en\":\"England\",\"es\":\"Inglaterra\",\"fr\":\"Angleterre\",\"ja\":\"イングランド\",\"pt-BR\":\"Inglaterra\",\"ru\":\"Англия\",\"zh-CN\":\"英格兰\"}"
+  },
+  {
+    "publicKey": "03037dc08e9ac63b82581f79b662a4d0ceca8a8ca162b1af3551595b8f2d97b70a",
+    "alias": "River Financial 1",
+    "channels": 129,
+    "capacity": 10149449780,
+    "firstSeen": 1580673303,
+    "updatedAt": 1728337796,
+    "city": {
+      "en": "Council Bluffs",
+      "ja": "カウンシルブラフス",
+      "ru": "Каунсил-Блафс",
+      "zh-CN": "康瑟尔布拉夫斯"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Iowa\",\"en\":\"Iowa\",\"es\":\"Iowa\",\"fr\":\"Iowa\",\"ja\":\"アイオワ州\",\"pt-BR\":\"Iova\",\"ru\":\"Айова\",\"zh-CN\":\"爱荷华州\"}"
+  },
+  {
+    "publicKey": "031633471d005f37252ede8114c6f4203e0a668270532f0f11a1e4072eb2eef272",
+    "alias": "Denaro Libre 🌞",
+    "channels": 129,
+    "capacity": 959393775,
+    "firstSeen": 1635642757,
+    "updatedAt": 1728338132,
+    "city": {
+      "de": "Reykjavík",
+      "en": "Reykjavik",
+      "es": "Reikiavik",
+      "fr": "Reykjavik",
+      "ja": "レイキャヴィーク",
+      "pt-BR": "Reiquiavique",
+      "ru": "Рейкьявик",
+      "zh-CN": "雷克亞維克"
+    },
+    "country": {
+      "de": "Island",
+      "en": "Iceland",
+      "es": "Islandia",
+      "fr": "Islande",
+      "ja": "アイスランド共和国",
+      "pt-BR": "Islândia",
+      "ru": "Исландия",
+      "zh-CN": "冰岛"
+    },
+    "iso_code": "IS",
+    "subdivision": "{\"de\":\"Hauptstadtregion\",\"en\":\"Capital Region\",\"es\":\"Región de la capital\",\"fr\":\"Région de la capitale\",\"ja\":\"大レイキャヴィーク\",\"pt-BR\":\"Distrito da Capital\",\"ru\":\"Хёвюдборгарсвайдид\",\"zh-CN\":\"首都区\"}"
+  },
+  {
+    "publicKey": "02fcc5bfc48e83f06c04483a2985e1c390cb0f35058baa875ad2053858b8e80dbd",
+    "alias": "lnd2.blink.sv",
+    "channels": 128,
+    "capacity": 2797138753,
+    "firstSeen": 1656415938,
+    "updatedAt": 1728334908,
+    "city": {
+      "en": "Council Bluffs",
+      "ja": "カウンシルブラフス",
+      "ru": "Каунсил-Блафс",
+      "zh-CN": "康瑟尔布拉夫斯"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Iowa\",\"en\":\"Iowa\",\"es\":\"Iowa\",\"fr\":\"Iowa\",\"ja\":\"アイオワ州\",\"pt-BR\":\"Iova\",\"ru\":\"Айова\",\"zh-CN\":\"爱荷华州\"}"
+  },
+  {
+    "publicKey": "035cf526f4c01ed693bacd7434461b9dc53d65b910fb3006110d8b42a574858fb2",
+    "alias": "NikolaTesla",
+    "channels": 128,
+    "capacity": 875528964,
+    "firstSeen": 1667105681,
+    "updatedAt": 1728338102,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "037943defcf3068fc5b8a2b821cdd2c4c1b1faa39d6a971b3fd984b9dd291a4817",
+    "alias": "Orange Sunrise",
+    "channels": 128,
+    "capacity": 1895473550,
+    "firstSeen": 1693607839,
+    "updatedAt": 1728338233,
+    "city": null,
+    "country": null,
+    "iso_code": null,
+    "subdivision": null
+  },
+  {
+    "publicKey": "0391e2edea5191627a25ecbd327c0dc2a95c880a5b0e73af38dc4a5a8964263b3f",
+    "alias": "Lucky.Dog",
+    "channels": 125,
+    "capacity": 663786547,
+    "firstSeen": 1636998678,
+    "updatedAt": 1728338096,
+    "city": {
+      "de": "Mobile",
+      "en": "Mobile",
+      "es": "Mobile",
+      "fr": "Mobile",
+      "ja": "モービル",
+      "pt-BR": "Mobile",
+      "ru": "Мобил",
+      "zh-CN": "莫比尔"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Alabama\",\"en\":\"Alabama\",\"es\":\"Alabama\",\"fr\":\"Alabama\",\"ja\":\"アラバマ州\",\"pt-BR\":\"Alabama\",\"ru\":\"Алабама\",\"zh-CN\":\"亚拉巴马州\"}"
+  },
+  {
+    "publicKey": "039174f846626c6053ba80f5443d0db33da384f1dde135bf7080ba1eec465019c3",
+    "alias": "e960fd8385a1603003727",
+    "channels": 122,
+    "capacity": 4616980413,
+    "firstSeen": 1666927868,
+    "updatedAt": 1728337995,
+    "city": {
+      "de": "Boardman",
+      "en": "Boardman",
+      "es": "Boardman",
+      "fr": "Boardman",
+      "ja": "ボードマン",
+      "pt-BR": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Oregon\",\"en\":\"Oregon\",\"es\":\"Oregón\",\"fr\":\"Oregon\",\"ja\":\"オレゴン州\",\"pt-BR\":\"Oregon\",\"ru\":\"Орегон\",\"zh-CN\":\"俄勒冈州\"}"
+  },
+  {
+    "publicKey": "025d28dc4c4f5ce4194c31c3109129cd741fafc1ff2f6ea53f97de2f58877b2295",
+    "alias": "Start9 HQ",
+    "channels": 121,
+    "capacity": 158270587,
+    "firstSeen": 1611420281,
+    "updatedAt": 1728337350,
+    "city": {
+      "de": "Aurora",
+      "en": "Aurora",
+      "ja": "オーロラ",
+      "pt-BR": "Aurora",
+      "ru": "Аврора",
+      "zh-CN": "奥罗拉"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"Colorado\",\"en\":\"Colorado\",\"es\":\"Colorado\",\"fr\":\"Colorado\",\"ja\":\"コロラド州\",\"pt-BR\":\"Colorado\",\"ru\":\"Колорадо\"}"
+  },
+  {
+    "publicKey": "03df3f0a2fd6bea5429a596461ce784c922b2981ada1af89cfefcd9ccfb16c16a7",
+    "alias": "CryptoChill",
+    "channels": 121,
+    "capacity": 2481821075,
+    "firstSeen": 1555249826,
+    "updatedAt": 1728338083,
+    "city": {
+      "de": "Clifton",
+      "en": "Clifton",
+      "ja": "クリフトン",
+      "pt-BR": "Clifton",
+      "ru": "Клифтон",
+      "zh-CN": "克利夫頓"
+    },
+    "country": {
+      "de": "USA",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "iso_code": "US",
+    "subdivision": "{\"de\":\"New Jersey\",\"en\":\"New Jersey\",\"es\":\"Nueva Jersey\",\"fr\":\"New Jersey\",\"ja\":\"ニュージャージー州\",\"pt-BR\":\"Nova Jérsei\",\"ru\":\"Нью-Джерси\",\"zh-CN\":\"新泽西州\"}"
+  }
+]

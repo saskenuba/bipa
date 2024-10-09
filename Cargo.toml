@@ -1,0 +1,28 @@
+[package]
+name = "bipa-coding-challenge"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "^1"
+axum = { version = "^0.7", features = ["macros"] }
+reqwest = { version = "^0.12", features = ["json"] }
+time = { version = "^0.3", features = ["formatting", "parsing"] }
+tokio = { version = "^1", features = ["macros", "rt", "rt-multi-thread"] }
+
+env_logger = "0.11.5"
+log = "0.4.22"
+
+futures = "0.3"
+futures-util = "0.3"
+
+rust_decimal = { version = "^1.36" }
+rust_decimal_macros = "^1.36"
+
+# de/serialization
+serde = { version = "^1", features = ["derive"] }
+serde_json = "^1"
+
+# database
+refinery = { version = "^0.8", features = ["rusqlite-bundled"] }
+rusqlite = { version = "^0.30", features = ["bundled"] }
