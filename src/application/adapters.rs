@@ -39,9 +39,6 @@ mod tests {
 
     #[test]
     fn format_conversions() {
-        assert_eq!(
-            Bitcoin::from(Satochi(36010516297)),
-            Bitcoin(dec!(360.10516297))
-        );
+        assert_eq!(Bitcoin::from(Satochi(550_000)), Bitcoin(dec!(0.00550000)));
     }
 }
