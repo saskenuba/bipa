@@ -42,12 +42,7 @@ impl NodesRepository for SqliteNodesRepository {
             inserted_values
         );
 
-        self.connection
-            .clone()
-            .lock()
-            .await
-            .execute(&stmt, [])
-            .expect("TODO: panic message");
+        self.connection.clone().lock().await.execute(&stmt, [])?;
 
         info!("inserted new nodes successfully");
         Ok(())
