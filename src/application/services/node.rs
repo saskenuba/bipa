@@ -30,6 +30,6 @@ impl NodeService {
             .map_ok(|nodes| nodes.into_iter().map(Node::from).collect::<Vec<_>>())
             .await?;
 
-        self.repository.insert(response)
+        self.repository.insert(response).await
     }
 }

@@ -18,7 +18,7 @@ impl From<Arc<Mutex<Connection>>> for SqliteNodesRepository {
 }
 
 impl NodesRepository for SqliteNodesRepository {
-    fn insert(&self, nodes: Vec<Node>) -> anyhow::Result<()> {
+    async fn insert(&self, nodes: Vec<Node>) -> anyhow::Result<()> {
         if nodes.is_empty() {
             return Ok(());
         }
@@ -44,8 +44,8 @@ impl NodesRepository for SqliteNodesRepository {
 
         self.connection
             .clone()
-            .try_lock()
-            .unwrap()
+            .lock()
+            .await
             .execute(&stmt, [])
             .expect("TODO: panic message");
 

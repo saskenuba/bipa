@@ -9,7 +9,7 @@ pub async fn start(db_conn: Arc<Mutex<Connection>>) {
 
     tokio::spawn(async move {
         let service = NodeService::from(db_conn);
-        if let Err(a) = service.refresh_node_rankings().await {
+        if service.refresh_node_rankings().await.is_err() {
             error!("Failed to load nodes rankings from API.")
         }
     });
