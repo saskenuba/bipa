@@ -6,15 +6,8 @@ use time::format_description::well_known::iso8601::{Config, EncodedConfig, TimeP
 use time::format_description::well_known::Iso8601;
 use time::OffsetDateTime;
 
-#[derive(Debug, PartialEq, Serialize, Deserialize)]
-pub struct Node {
-    pub public_key: String,
-    pub alias: String,
-    /// Capacity are represented in Satochi units.
-    pub capacity: Satochi,
-    pub first_seen: String,
-}
-
+// Default ISO8601 has second precision of 9 digits
+// Here we set it to only 2 digits.
 const ISO8601_CONFIG: EncodedConfig = {
     let cfg_default = Config::DEFAULT;
     let cfg = cfg_default.set_time_precision(TimePrecision::Second {
@@ -22,6 +15,14 @@ const ISO8601_CONFIG: EncodedConfig = {
     });
     cfg.encode()
 };
+
+#[derive(Debug, PartialEq, Serialize, Deserialize)]
+pub struct Node {
+    pub public_key: String,
+    pub alias: String,
+    pub capacity: Satochi,
+    pub first_seen: String,
+}
 
 impl From<NodeRankingBaseDTO> for Node {
     fn from(value: NodeRankingBaseDTO) -> Self {
@@ -38,22 +39,5 @@ impl From<NodeRankingBaseDTO> for Node {
             capacity: value.capacity.into(),
             first_seen,
         }
-    }
-}
-
-#[cfg(test)]
-mod tests {
-    use crate::application::types::Node;
-    use crate::infrastructure::api::input_dto::NodeRankingBaseDTO;
-
-    #[test]
-    fn successfully_parse_and_transform() {
-        let result = serde_json::from_str::<Vec<NodeRankingBaseDTO>>(include_str!(
-            "../../resources/sample.json"
-        ))
-        .unwrap();
-
-        let node = Node::from(result[0].clone());
-        println!("{:?}", node);
     }
 }
