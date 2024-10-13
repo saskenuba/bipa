@@ -28,7 +28,7 @@ pub async fn serve() {
     info!("sqlite migrations ran successfully.");
 
     let db_connection = Arc::new(Mutex::new(connection));
-    jobs::start(db_connection.clone()).await;
+    jobs::start(db_connection.clone());
     info!("jobs started ...");
 
     let router = Router::new()
